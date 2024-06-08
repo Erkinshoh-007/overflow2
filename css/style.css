@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  background-color: #000;
+  height: 200vh;
+}
+#light_mode {
+  text-align: center;
+  padding-top: 200px;
+}
+.light_mode_image {
+  width: 200px;
+  height: 200px;
+}
+.light h1 {
+  background-color: yellow;
+}
